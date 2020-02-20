@@ -44,6 +44,7 @@
 ## How to run
 
 - Clone the repo: `https://github.com/reyeon1209/KPMG_TEAM11.git`
+- front의 경우 노드 로컬 서버를 사용해야함. (이 부분 보완하기 위해서 firebase 연동 예정)
 
 
 ## Copyright and License
