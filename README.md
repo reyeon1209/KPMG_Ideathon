@@ -30,7 +30,7 @@
 추가 예정
 
 
-## Project Dependencires
+## Project Dependencies
 
 - [**darkflow**](https://github.com/thtrieu/darkflow/)    
 - Python3, tensorflow 1.0, numpy, opencv 3
