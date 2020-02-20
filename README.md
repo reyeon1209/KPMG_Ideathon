@@ -34,6 +34,7 @@
 
 - [**darkflow**](https://github.com/thtrieu/darkflow/)    
 - Python3, tensorflow 1.0, numpy, opencv 3
+- python 3.7.3-1, dev 3.7.3-1, numpy 1.16.2-1, opencv 3.4, tensorflow 1.13.1
 
    
 ## Execution Screen
