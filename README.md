@@ -76,7 +76,7 @@ Dash cam using Cloud solutions and deep learning-based recording systems
 
 **Jang MoonKyung**
 - [**@moonk1212**](https://github.com/moonk1212)   
-- <zm8208@gmail.com> 
+- <zm820808@gmail.com> 
 
 **Kang SiJin**
 - [**@twfq0303**](https://github.com/twfq0303)   
