@@ -27,7 +27,7 @@
    
 ## Project Introduction
 
-추가 예정
+클라우드 솔루션, 딥러닝 기반의 녹화 시스템을 이용한 블랙박스
 
 
 ## Project Dependencies
