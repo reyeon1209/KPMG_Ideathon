@@ -40,7 +40,12 @@ Dash cam using Cloud solutions and deep learning-based recording systems
    
 ## Execution Screen
 
+### Demo Video Link
+
 - [Demo Video Link](https://kpmg-15f97.firebaseapp.com/)
+
+### 앱 시안 
+
 ![image](https://user-images.githubusercontent.com/46713032/75092831-1ead2680-55bf-11ea-86fd-ce13b395ae52.png)
 
 
