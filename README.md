@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/reyeon1209/KPMG_TEAM11/">
-    <img src="https://user-images.githubusercontent.com/46713032/74825594-8ceab280-534d-11ea-8495-87a486e4f224.png" alt="Minesweeper logo" width="200" height="200">
+  <a href="https://kpmg-15f97.firebaseapp.com/">
+    <img src="https://user-images.githubusercontent.com/46713032/74825594-8ceab280-534d-11ea-8495-87a486e4f224.png" alt="MENINBLACK logo" width="200" height="200">
   </a>
 </p>
 
-<h3 align="center">맨인블랙</h3>
+<h3 align="center">MENINBLACK</h3>
 
 <p align="center">
   KPMG Ideathon in 2020
@@ -51,12 +51,12 @@ Dash cam using Cloud solutions and deep learning-based recording systems
 
 ## Copyright and License
 
-[**GNU General Public License v3.0**](https://github.com/reyeon1209/KPMG_TEAM11/blob/master/LICENSE)
+[**GNU General Public License v3.0**](https://github.com/reyeon1209//KPMG_Ideathon/blob/master/LICENSE)
 
 
 ## Bugs and Feature Requests
 
-[**Please do requests here.**](https://github.com/reyeon1209/KPMG_TEAM11/issues)
+[**Please do requests here.**](https://github.com/reyeon1209//KPMG_Ideathon/issues)
    
    
 ## About the Contributor
