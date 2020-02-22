@@ -27,23 +27,27 @@
    
 ## Project Introduction
 
-추가 예정
+클라우드 솔루션, 딥러닝 기반의 녹화 시스템을 이용한 블랙박스
 
 
 ## Project Dependencies
-
+### Front 
+- html, css, bootstrap, javascript, firebase 
+### AI
 - [**darkflow**](https://github.com/thtrieu/darkflow/)    
-- Python3, tensorflow 1.0, numpy, opencv 3
+- python 3.7.3-1, dev 3.7.3-1, numpy 1.16.2-1, opencv 3.4, tensorflow 1.13.1
 
    
 ## Execution Screen
 
-추가 예정
+- [Demo Video Link](https://kpmg-15f97.firebaseapp.com/)
 
 
 ## How to run
 
-- Clone the repo: `https://github.com/reyeon1209/KPMG_TEAM11.git`
+- Clone the repo: `https://github.com/reyeon1209/KPMG_Ideathon.git`
+- front의 경우 노드 로컬 서버를 사용해야함. (이 부분 보완하기 위해서 firebase 연동 예정)
+
 
 
 ## Copyright and License
