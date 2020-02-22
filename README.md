@@ -31,7 +31,9 @@
 
 
 ## Project Dependencies
-
+### Front 
+- html, css, bootstrap, javascript, firebase 
+### AI
 - [**darkflow**](https://github.com/thtrieu/darkflow/)    
 - python 3.7.3-1, dev 3.7.3-1, numpy 1.16.2-1, opencv 3.4, tensorflow 1.13.1
 
@@ -45,6 +47,7 @@
 
 - Clone the repo: `https://github.com/reyeon1209/KPMG_Ideathon.git`
 - front의 경우 노드 로컬 서버를 사용해야함. (이 부분 보완하기 위해서 firebase 연동 예정)
+
 
 
 ## Copyright and License
