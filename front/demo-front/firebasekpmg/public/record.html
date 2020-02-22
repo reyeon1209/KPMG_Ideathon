@@ -45,7 +45,7 @@
 
   </script>
   <style>
-    .navbar-brand {
+.navbar-brand {
       position: absolute;
       left: calc(50% - 30px);
       top: 8px;
@@ -118,7 +118,6 @@
   </nav>
 
   <div>
-
     <div style=" text-align: left;">
       <a id="mybutton" href="index.html" >
         <button>원본 영상</button>
@@ -127,39 +126,19 @@
         <button>객체인식 영상</button>
        </a>
        <a id="mybutton" href="record.html" >
-        <button>녹화된 영상</button>
+        <button>클라우드에 녹화된 영상</button>
        </a>
     </div>
-    <div style=" text-align: center;">
-      <h5> < 원본 영상 ></h5>
-    </div>
     
-    <div class="grid-container">
-    <div class="grid-item item1">
-      <video width="100%" height="85%" id="videoPlayer" controls muted="muted" autoplay>
-      <source src="assets/demo_origin.mp4" type="video/mp4">
+    <div style=" text-align: center;">
+      <h5> < 클라우드에 녹화된 영상 ></h5>
+    </div>
+    <video width="100%" height="85%" id="videoPlayer" controls muted="muted" autoplay>
+
+      <source src="assets/demo.mp4" type="video/mp4">
     </video>
-  </div>
-  <div class="grid-item item2">
-    <img src="assets/map.png" style="margin-top: 5%">
-    <h5>37°32'59.3"N 127°04'30.0"E<br>
-      세종대학교 용덕관 근처
-      <br>
-      0 days ago <br>3MB
-      <br>
-      타임스탬프
-<br>
-20200222 17:48 07’34”<br>
-
-20200222 17:48 11’34”<br>
-<span>충격감지</span><br>
-
-20200222 17:48 24’10”<br>
-</h5>
 
 
-  </div>
-  </div>
   </div>
 
 </body>
