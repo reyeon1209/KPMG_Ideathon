@@ -1,0 +1,11 @@
+●사물 깊이 추정
+특정 크기 변화로 거르고
+-> 다가오는지 x+ , 멀어지는지x-, 
+->( x+ && else ) , 촬영시작
+●활용좌표
+[top left, bottom right]
+●사물 깊이 추정 in How?
+Rule-based : 
+
+
+
