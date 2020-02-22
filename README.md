@@ -27,7 +27,7 @@
    
 ## Project Introduction
 
-클라우드 솔루션, 딥러닝 기반의 녹화 시스템을 이용한 블랙박스
+Dash cam using Cloud solutions and deep learning-based recording systems
 
 
 ## Project Dependencies
@@ -47,8 +47,6 @@
 ## How to run
 
 - Clone the repo: `https://github.com/reyeon1209/KPMG_Ideathon.git`
-- front의 경우 노드 로컬 서버를 사용해야함. (이 부분 보완하기 위해서 firebase 연동 예정)
-
 
 
 ## Copyright and License
