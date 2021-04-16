@@ -70,7 +70,7 @@ Dash cam using Cloud solutions and deep learning-based recording systems
 
 **Choi MinKyeong**
 - [**@alsrud9909**](https://github.com/alsrud9909)   
-- <csipms1023@naver.com>  
+- <mkchoe@sju.ac.kr>  
 
 **Han KiIn**
 - [**@chris1708**](https://github.com/chris1708)   
