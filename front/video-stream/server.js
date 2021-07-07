@@ -1,3 +1,9 @@
+//create a client
+const { Storage } = require('@google-cloud/storage');
+const projectId = 'meninblack-268711'//구글스토리지내의 projectId
+const keyFilename = 'meninblackkey.json' // 구글스토리지 콘솔에서 key파일 생성
+
+//서버 설정 
 const express = require('express')
 const fs = require('fs')
 const path = require('path')
@@ -10,7 +16,7 @@ app.get('/', function(req, res) {
 })
 
 app.get('/video', function(req, res) {
-  const path = 'assets/1.mp4'
+  const path = 'C:/Users/zm820/Desktop/img/1.mp4'
   const stat = fs.statSync(path)
   const fileSize = stat.size
   const range = req.headers.range
@@ -48,8 +54,15 @@ app.get('/video', function(req, res) {
   }
 
 })
-app.get('/imgs',function(req,res){
-  fs.readFile('assets/stopdriving.png',function(error,data){
+app.get('/img1',function(req,res){
+  fs.readFile('assets/backBtn.png',function(error,data){
+    res.writeHead(200,{ 'Content-Type': 'text/html'});
+    res.end(data);
+  
+  })
+})
+app.get('/img2',function(req,res){
+  fs.readFile('assets/name.png',function(error,data){
     res.writeHead(200,{ 'Content-Type': 'text/html'});
     res.end(data);
   
